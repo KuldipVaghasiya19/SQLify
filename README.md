@@ -93,7 +93,7 @@ This system is designed to transform **natural language questions** into **execu
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/yash-sojitra-20/SQLify.git
+  git clone https://github.com/KuldipVaghasiya19/SQLify
 ```
 2.Navigate to the project directory:
 
